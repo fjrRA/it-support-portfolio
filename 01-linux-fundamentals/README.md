@@ -1,8 +1,7 @@
-```md
-> **Status:** Documentation in Progress  
-> Basic Linux commands were previously practiced and are being repeated for documentation and supporting evidence.
+> **Status:** Dokumentasi sedang disusun  
+> Command dasar Linux sebelumnya telah dipraktikkan melalui Ubuntu pada WSL dan sedang diulang untuk dokumentasi serta bukti pendukung.
 
-# Linux Fundamentals
+# Dasar-Dasar Linux
 
 Dokumentasi latihan dasar Linux menggunakan Ubuntu melalui Windows Subsystem for Linux atau WSL.
 
@@ -10,6 +9,6 @@ Dokumentasi latihan dasar Linux menggunakan Ubuntu melalui Windows Subsystem for
 
 - Navigasi direktori
 - Manajemen file dan folder
-- Pemeriksaan storage
-- Pemeriksaan memory
-- Pemeriksaan process
+- Pemeriksaan penyimpanan
+- Pemeriksaan memori
+- Pemeriksaan proses

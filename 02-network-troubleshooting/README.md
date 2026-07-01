@@ -1,13 +1,13 @@
-> **Status:** Planned  
-> This directory currently contains documentation templates. Complete Help Desk ticket simulations have not yet been completed.
+> **Status:** Dokumentasi sedang disusun  
+> Command diagnosis jaringan dasar Windows sebelumnya telah dipraktikkan dan sedang diulang untuk menghasilkan dokumentasi yang lebih terstruktur.
 
-# Network Troubleshooting
+# Troubleshooting Jaringan Dasar
 
-Dokumentasi praktik diagnosis jaringan dasar pada Windows.
+Dokumentasi praktik diagnosis dan troubleshooting jaringan dasar pada Windows.
 
 ## Tools dan Command
 
-- ipconfig
-- ping
-- nslookup
-- tracert
+- `ipconfig`
+- `ping`
+- `nslookup`
+- `tracert`

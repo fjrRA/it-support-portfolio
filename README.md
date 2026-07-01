@@ -1,19 +1,19 @@
-# IT Support Portfolio
+# Portofolio IT Support
 
-This repository documents my hands-on learning journey in IT Support, Help Desk, basic system administration, and technical troubleshooting.
+Repository ini mendokumentasikan proses pembelajaran dan praktik mandiri saya dalam bidang IT Support, Help Desk, administrasi sistem dasar, dan troubleshooting teknis.
 
-The portfolio is being developed gradually. Completed practices, ongoing documentation, and planned learning sections are clearly separated to avoid presenting unfinished materials as completed professional experience.
+Portofolio ini dikembangkan secara bertahap. Praktik yang telah dilakukan, dokumentasi yang sedang disusun, dan materi yang masih direncanakan dibedakan secara jelas agar materi yang belum selesai tidak ditampilkan sebagai pengalaman profesional atau kemampuan yang telah dikuasai.
 
-## Current Learning Progress
+## Progres Pembelajaran Saat Ini
 
-| Area | Status | Description |
+| Area Pembelajaran | Status | Keterangan |
 |---|---|---|
-| Linux CLI Fundamentals | Documentation in Progress | Basic Linux commands have been practiced using Ubuntu through Windows Subsystem for Linux. The exercises are being repeated and documented with evidence. |
-| Windows Network Troubleshooting | Documentation in Progress | Basic diagnostic commands such as `ipconfig`, `ping`, `nslookup`, and `tracert` have been practiced. |
-| Help Desk Ticketing Simulation | Planned | The template has been prepared, but complete ticket simulations have not yet been completed. |
-| SOP and Knowledge Base | Planned | The documentation template has been prepared, but this topic has not yet been studied in depth. |
+| Dasar-Dasar Linux CLI | Dokumentasi sedang disusun | Command dasar Linux telah dipraktikkan menggunakan Ubuntu melalui Windows Subsystem for Linux atau WSL. Latihan sedang diulang dan didokumentasikan dengan bukti pendukung. |
+| Troubleshooting Jaringan Windows | Dokumentasi sedang disusun | Command diagnosis dasar seperti `ipconfig`, `ping`, `nslookup`, dan `tracert` telah dipraktikkan. |
+| Simulasi Tiket Help Desk | Direncanakan | Template tiket telah disiapkan, tetapi simulasi tiket lengkap belum diselesaikan. |
+| SOP dan Basis Pengetahuan | Direncanakan | Template dokumentasi telah disiapkan, tetapi materi ini belum dipelajari secara mendalam. |
 
-## Repository Structure
+## Struktur Repository
 
 ```text
 01-linux-fundamentals/
@@ -33,40 +33,56 @@ The portfolio is being developed gradually. Completed practices, ongoing documen
 04-sop-knowledge-base/
 ├── README.md
 └── sop-template.md
+```
 
-## Learning Environment
+## Lingkungan Pembelajaran
+
 - Windows 10
-- Ubuntu through Windows Subsystem for Linux
+- Ubuntu melalui Windows Subsystem for Linux atau WSL
 - Windows Command Prompt
 - Windows PowerShell
 - Visual Studio Code
-- Git and GitHub
-- Current Focus
+- Git dan GitHub
 
-## The current focus of this portfolio is:
-- Repeating and documenting Linux CLI practice.
-- Repeating Windows network diagnostic procedures.
-- Learning the structure of IT Help Desk tickets.
-- Creating troubleshooting case simulations.
-- Learning how to write reusable SOP and knowledge-base documentation.
-- Documentation Principles
+## Fokus Pembelajaran Saat Ini
 
-## Each completed practice should include:
-- Problem or objective
-- Environment used
-- Commands or tools used
-- Step-by-step process
-- Result
-- Verification
-- Lessons learned
-- Supporting screenshots when appropriate
-- Important Note
+Fokus pengembangan portofolio ini meliputi:
 
-This repository is a learning portfolio and does not represent professional employment experience.
+1. Mengulang dan mendokumentasikan praktik Linux CLI.
+2. Mengulang prosedur diagnosis jaringan dasar pada Windows.
+3. Mempelajari struktur tiket IT Help Desk.
+4. Membuat simulasi kasus troubleshooting.
+5. Mempelajari cara menulis SOP dan basis pengetahuan yang dapat digunakan kembali.
 
-Sections marked as Planned have not yet been completed. Sections marked as Documentation in Progress indicate that basic practice has been performed, but the documentation and supporting evidence are still being developed.
+## Prinsip Dokumentasi
 
+Setiap praktik yang telah diselesaikan sebaiknya mencakup:
 
-Catatan: Markdown tidak mendukung code block bertingkat dengan pembatas yang sama secara sempurna saat disalin. Pada bagian struktur folder, gunakan triple backtick biasa di dalam file README.
+- Masalah atau tujuan praktik
+- Lingkungan yang digunakan
+- Command atau alat yang digunakan
+- Langkah-langkah pengerjaan
+- Hasil
+- Verifikasi
+- Pelajaran yang diperoleh
+- Screenshot pendukung apabila diperlukan
 
----
+## Keterangan Status
+
+### Dokumentasi sedang disusun
+
+Status ini berarti praktik dasar telah dilakukan sebelumnya, tetapi latihan sedang diulang agar dapat didokumentasikan secara lebih terstruktur dan dilengkapi dengan bukti pendukung.
+
+### Direncanakan
+
+Status ini berarti folder atau template telah disiapkan, tetapi materi pembelajaran dan praktik lengkapnya belum diselesaikan.
+
+### Selesai
+
+Status ini hanya akan digunakan apabila praktik telah dilakukan, hasilnya telah diverifikasi, dan dokumentasinya telah dilengkapi.
+
+## Catatan Penting
+
+Repository ini merupakan portofolio pembelajaran mandiri dan tidak mewakili pengalaman kerja profesional sebagai IT Support atau Help Desk.
+
+Bagian yang berstatus **Direncanakan** belum selesai dipelajari. Bagian yang berstatus **Dokumentasi sedang disusun** menunjukkan bahwa praktik dasar pernah dilakukan, tetapi dokumentasi dan bukti pendukungnya masih dalam proses pengembangan.

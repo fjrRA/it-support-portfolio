@@ -1,6 +1,8 @@
-> **Status:** Planned  
-> This directory currently contains a documentation template. SOP and knowledge-base writing have not yet been studied in depth.
+> **Status:** Direncanakan  
+> Folder ini saat ini baru berisi template dokumentasi. Materi penulisan SOP dan basis pengetahuan belum dipelajari secara mendalam.
 
-# SOP and Knowledge Base
+# SOP dan Basis Pengetahuan
 
-Kumpulan Standard Operating Procedure dan knowledge base untuk penanganan masalah IT dasar.
+Folder ini akan digunakan untuk mendokumentasikan Standard Operating Procedure dan basis pengetahuan untuk penanganan masalah IT dasar.
+
+Saat ini, materi SOP dan knowledge base masih dalam tahap perencanaan pembelajaran.

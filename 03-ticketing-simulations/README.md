@@ -1,6 +1,8 @@
-> **Status:** Planned  
-> This directory currently contains documentation templates. Complete Help Desk ticket simulations have not yet been completed.
+> **Status:** Direncanakan  
+> Folder ini saat ini baru berisi template dokumentasi. Simulasi tiket Help Desk lengkap belum diselesaikan.
 
-# Help Desk Ticket Simulations
+# Simulasi Tiket Help Desk
 
-Kumpulan simulasi tiket IT Help Desk yang mencakup identifikasi masalah, troubleshooting, resolution, dan verification.
+Folder ini akan berisi simulasi tiket IT Help Desk yang mencakup identifikasi masalah, proses troubleshooting, penyelesaian, dan verifikasi.
+
+Saat ini, materi ticketing system masih dalam tahap pembelajaran.
